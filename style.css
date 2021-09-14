@@ -1,0 +1,57 @@
+.navbar img{
+    max-width: 80px;
+}
+
+.navbar-nav{
+    margin-right: auto;
+}
+
+.personal{
+    background-color: rgba(238, 238, 238, 0.692);
+   
+}
+
+.personal .prsn-prf{
+    position: relative;
+    top: 160px;
+}
+
+.perso-dtl{
+    padding: 30px 0;
+}
+
+.perso-dtl-txt{
+    position: relative;
+    top: 50px;
+    margin-left: px;
+}
+
+
+.member-box{
+    margin-top: 120px;
+}
+
+.member-box .card img {
+    width: 130px;
+    height: auto;
+    margin-top: -70px;
+    margin-left: 15px;
+}
+.mbr-box{
+    text-align: center;
+}
+
+.Contact{
+    background-color: rgb(248, 248, 248);
+    padding: 40px 0;
+}
+
+.Contact .text-start{
+    position: relative;
+    top: 50px;
+}
+
+.contnt-form-div{
+    
+}
+
